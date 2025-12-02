@@ -13,7 +13,7 @@ params:
   defaultTheme: light
   ShowShareButtons: false
   ShowReadingTime: true
-  # hideFooter: true
+  hideFooter: true
   
   profileMode:
     enabled: true
