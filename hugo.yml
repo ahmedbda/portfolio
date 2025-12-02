@@ -1,0 +1,55 @@
+baseURL: "https://ahmedbda.com/"
+title: "Home"
+theme: "PaperMod"
+languageCode: "en-us"
+
+# english is the default language
+defaultContentLanguage: en
+# keeps languages in their own subfolders like /en/ and /fr/
+defaultContentLanguageInSubdir: false
+
+params:
+  # auto switches between dark and light mode
+  defaultTheme: light
+  ShowShareButtons: false
+  ShowReadingTime: true
+  # hideFooter: true
+  
+  profileMode:
+    enabled: true
+    title: "Ahmed"
+    subtitle: "Studying the Cycle Préparatoire Intégré specialisé en informatique at CESI"
+    imageUrl: "https://github.com/ahmedbda.png"
+    imageTitle: "Picture"
+    imageWidth: 150
+    imageHeight: 150
+    buttons:
+      - name: Projects
+        url: projects
+      - name: Resources
+        url: resources
+      - name: Resume
+        url: resume
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ahmedbda"
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - identifier: projects
+          name: Projects
+          url: /projects/
+          weight: 10
+        - identifier: resources
+          name: Resources
+          url: /resources/
+          weight: 20
+        - identifier: resume
+          name: Resume
+          url: /resume/
+          weight: 30
