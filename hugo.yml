@@ -1,5 +1,5 @@
 baseURL: "https://ahmedbda.com/"
-title: "Home"
+title: "About"
 theme: "PaperMod"
 languageCode: "en-us"
 
@@ -10,19 +10,19 @@ defaultContentLanguageInSubdir: false
 
 params:
   # auto switches between dark and light mode
-  defaultTheme: light
+  defaultTheme: dark
   ShowShareButtons: false
   ShowReadingTime: true
-  hideFooter: true
+  # hideFooter: true
   
   profileMode:
     enabled: true
     title: "Ahmed"
-    subtitle: "Studying the Cycle Préparatoire Intégré specialisé en informatique at CESI"
-    imageUrl: "https://github.com/ahmedbda.png"
-    imageTitle: "Picture"
-    imageWidth: 150
-    imageHeight: 150
+    subtitle: "Studying the Cycle Préparatoire Intégré specialised in computer science at CESI"
+    # imageUrl: "https://github.com/ahmedbda.png"
+    # imageTitle: "Picture"
+    # imageWidth: 150
+    # imageHeight: 150
     buttons:
       - name: Projects
         url: projects
@@ -34,6 +34,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/ahmedbda"
+    - name: email
+      url: "/contact"
 
 languages:
   en:
@@ -53,3 +55,7 @@ languages:
           name: Resume
           url: /resume/
           weight: 30
+        - identifier: contact
+          name: Contact
+          url: /contact/
+          weight: 40
