@@ -1,10 +1,10 @@
 ---
 title: "Contact"
-layout: "contact"
 summary: "contact"
 hidemeta: true
 ---
 
+{{< rawhtml >}}
 <form action="https://formspree.io/f/xanrjgkd" method="POST" class="contact-form">
   
   <div class="form-group">
@@ -22,3 +22,4 @@ hidemeta: true
   </div>
 
 </form>
+{{< /rawhtml >}}
