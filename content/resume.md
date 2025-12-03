@@ -11,7 +11,7 @@ Computer science engineering student
 ---
 
 ## Summary
-I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 3-4 month internship starting April 2026 to validate my second year and then consider a work-study program.  
+I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 3-4 month internship starting from april 2026 to validate my second year and then consider a work-study program.  
 
 ## Skills
 
