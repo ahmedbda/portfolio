@@ -36,8 +36,6 @@ params:
       url: "https://github.com/ahmedbda"
     - name: email
       url: "/contact"
-  verification:
-    google: "OCA1LpVikYcQhD46bX-hT49GXchpPr4UlDnftkfTWxg"
 
 languages:
   en:
