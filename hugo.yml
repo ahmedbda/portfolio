@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir: false
 
 params:
   # auto switches between dark and light mode
-  defaultTheme: dark
+  defaultTheme: light
   ShowShareButtons: false
   ShowReadingTime: true
   hideFooter: true
