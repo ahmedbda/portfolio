@@ -18,11 +18,11 @@ params:
   profileMode:
     enabled: true
     title: "Ahmed"
-    subtitle: "Studying the Cycle Préparatoire Intégré specialised in computer science at CESI"
-    # imageUrl: "https://github.com/ahmedbda.png"
-    # imageTitle: "Picture"
-    # imageWidth: 150
-    # imageHeight: 150
+    subtitle: "Studying computer science"
+    imageUrl: "https://github.com/ahmedbda.png"
+    imageTitle: "Picture"
+    imageWidth: 150
+    imageHeight: 150
     buttons:
       - name: Projects
         url: projects
