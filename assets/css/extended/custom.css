@@ -17,37 +17,40 @@ main {
 
 /* light mode */
 :root {
-    --theme: #ffffff;       /* Blanc Pur */
+    --theme: #ffffff;
     --entry: #ffffff;
     
-    /* NOIR PUR pour les éléments principaux (Boutons, Titres) */
-    --primary: #000000;
+    /* primary is now dark grey, not black */
+    --primary: #202020;
     
-    /* Gris foncé pour les accents/liens */
-    --accent: #424245;      
+    /* softer accent for interactions */
+    --accent: #555555;
     
-    /* Le fameux "Gris Apple" pour le texte de lecture (plus doux que le noir) */
-    --content: #1d1d1f;     
-    --secondary: #86868b;   /* Gris neutre */
+    /* text is soft grey for comfort */
+    --content: #333333;
+    --secondary: #707070;
     
-    --border: #d2d2d7;      /* Bordures très fines */
+    /* very light borders */
+    --border: #eaeaea;
 }
 
-/* DARK MODE - "OLED Black" */
+/* dark mode */
 :root[data-theme="dark"] {
-    --theme: #000000;       /* Noir Absolu */
-    --entry: #1c1c1e;       /* Gris très sombre pour les cartes */
+    /* background is deep grey, easier on eyes */
+    --theme: #121212;
+    --entry: #1c1c1c;
     
-    /* BLANC PUR pour le contraste maximal sur fond noir */
-    --primary: #ffffff;     
+    /* soft white elements */
+    --primary: #e0e0e0;
     
-    /* Gris clair pour les accents */
-    --accent: #e5e5e5;      
+    /* light grey accents */
+    --accent: #a0a0a0;
     
-    --content: #f5f5f7;     /* Blanc cassé pour le texte */
-    --secondary: #a1a1a6;
+    /* text is light grey */
+    --content: #d0d0d0;
+    --secondary: #808080;
     
-    --border: #424245;
+    --border: #2a2a2a;
 }
 
 /* contact form */
