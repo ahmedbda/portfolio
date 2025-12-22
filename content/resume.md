@@ -6,19 +6,15 @@ disableShare: true
 showToc: true
 ---
 
-Computer science engineering student  
-
----
-
 ## Summary
-I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 3-4 month internship starting from april 2026 to validate my second year and then consider a work-study program.  
+I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 4 month internship starting from april 2026 to validate my second year and then consider a work-study program  
 
 ## Skills
 
 ### Hard skills
 - Python, C++, C, HTML, CSS, SQL, UML
-- Github, Linux Ubuntu, VS Code, Spyder, Jupyter Notebook, Microsoft 365, Google Workspace
-- Basics of JavaScript (React, Vite), Tailwind CSS, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Cisco Packet Tracer, Github, Linux Ubuntu, VS Code, Spyder, Jupyter Notebook, Microsoft 365, Google Workspace
+- Basics of JavaScript (React), Tailwind CSS, Pandas, Matplotlib, Seaborn, Scikit-learn, FastApi
 
 ### Soft skills
 - Management and team spirit developed through numerous projects following the PBL pedagogy
@@ -34,7 +30,7 @@ Specialization in computer engineering, projects planned for the current school 
 
 - Design and realization of a weather station prototype (embedded systems)
 - Programming of an RPG game with graphical interface in C++ (object-oriented programming)
-- Realization of a site configuration mock-up (networks and systems)
+- Realization of a network configuration mock-up for a city (networks and systems)
 - Development of a job and internship offers website (web development)
 
 ### 2024-2025: First year of Cycle Préparatoire Intégré at CESI
@@ -54,6 +50,7 @@ Main projects introducing engineering and the PBL (Problem-Based Learning) metho
 ### Projects
 Personal projects done in my free time (more about them [here](http://ahmedbda.com/projects/))
 
+- 3D interactive web rendering of asteroids in real time with the NASA API and Python FastApi 
 - Telemetry CLI tool in Python and C++ (WinAPI) with report generation (SIEM simulation) and logs
 - NASA turbofan RUL prediction model in Python with C-MAPSS dataset
 - Interactive web application allowing the choice of an animated background in React Javascript and Tailwind CSS
