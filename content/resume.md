@@ -7,7 +7,7 @@ showToc: true
 ---
 
 ## Summary
-I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 4 month internship starting from april 2026 to validate my second year and then consider a work-study program  
+I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 2 to 4 month internship starting from april 2026 to validate my second year as well as a work-study program for 3 years starting 2026  
 
 ## Skills
 
@@ -48,12 +48,8 @@ Main projects introducing engineering and the PBL (Problem-Based Learning) metho
 ## Skills
 
 ### Projects
-Personal projects done in my free time (more about them [here](http://ahmedbda.com/projects/))
+Personal projects done in my free time, find them [here](http://ahmedbda.com/projects/)
 
-- 3D interactive web rendering of asteroids in real time with the NASA API and Python FastApi 
-- Telemetry CLI tool in Python and C++ (WinAPI) with report generation (SIEM simulation) and logs
-- NASA turbofan RUL prediction model in Python with C-MAPSS dataset
-- Interactive web application allowing the choice of an animated background in React Javascript and Tailwind CSS
 
 ### Languages
 - French: Native
