@@ -4,8 +4,6 @@ url: "/resources/"
 hidemeta: true
 ---
 
-> "If you want to master something, teach it" - Richard Feynman  
-
 A list of personal documentation and educational materials that I made
 
 ### Encoding, Encryption & Hashing  
