@@ -7,57 +7,58 @@ showToc: true
 ---
 
 ## Summary
-I am a computer science engineering student (second year of classe préparatoire intégrée) looking for a 2 to 4 month internship starting from april 2026 to validate my second year as well as a work-study program for 3 years starting 2026  
+I am a computer science engineering student entering my engineering cycle (Bac+5) and passionate about cybersecurity, looking for a 3-year apprenticeship as a cybersecurity engineer 
 
 ## Skills
 
 ### Hard skills
-- Python, C++, C, HTML, CSS, SQL, UML
-- Cisco Packet Tracer, Github, Linux Ubuntu, VS Code, Spyder, Jupyter Notebook, Microsoft 365, Google Workspace
-- Basics of JavaScript (React), Tailwind CSS, Pandas, Matplotlib, Seaborn, Scikit-learn, FastApi
+- Cisco CCNA 1 training, self-learning through CTFs (TryHackMe)
+- Python, C/C++, HTML, CSS, SQL
+- MySQL, Linux (Ubuntu and Kali), Git/Github, WSL, Pytest, Jupyter, Spyder
 
 ### Soft skills
-- Management and team spirit developed through numerous projects following the PBL pedagogy
+- Project management, team spirit and organizational skills developed following the PBL pedagogy
 - Autonomy, curiosity to learn and adaptability recognized by professors
-- Analysis and synthesis capacities acquired thanks to the production of numerous reports
+- Analysis, synthesis and technical writing capacities acquired thanks to the production of numerous deliverables and reports
 
 ---
 
 ## Education
 
-### 2025-2026: Second year of Cycle Préparatoire Intégré at CESI
-Specialization in computer engineering, projects planned for the current school year
+### 2024-2026: Cycle Préparatoire Intégré at CESI (Labège)
+Non-exhaustive list of group projects carried out using the Problem-Based Learning method
 
-- Design and realization of a weather station prototype (embedded systems)
-- Programming of an RPG game with graphical interface in C++ (object-oriented programming)
-- Realization of a network configuration mock-up for a city (networks and systems)
-- Development of a job and internship offers website (web development)
+- Realization of a metropolitan infrastructure network mock-up
+- Software development of a game with a graphical interface in C++
+- Front-end and back-end development of a job offers website
+- Creation and population of a database using MySQL
 
-### 2024-2025: First year of Cycle Préparatoire Intégré at CESI
-Main projects introducing engineering and the PBL (Problem-Based Learning) method
+---
 
-- Safe prototype with password via 4 switches (electronics)
-- Sampling, transmission and filtering of a digital sound in Python (signal processing)
-- Creation and population of a database using MySQL (modeling)
+## Experience
 
-### 2021-2024: Baccalauréat général at Lycée Marie Curie
-- Mathematics, digital and computer sciences, expert mathematics option.
+### April 2026 - June 2026: Python and networks intern at Hydrospot (Barthe ENR)
+Securing and improving the reliability of critical data flows, reinforcement of communication protocols to ensure data integrity and resistance to risks
 
 ---
 
 ## Skills
 
 ### Projects
-Personal projects done in my free time, find them [here](http://ahmedbda.com/projects/)
+Complete portfolio and technical documentation available [here](http://ahmedbda.com/projects)
 
+- AI prediction model and statistical analysis of NASA turbojets RUL in Python
+- 3D visualization website of asteroids identified by NASA (NeoWs API) and backend in Python (FastAPI)
+- Technical guide on cryptography: encoding, encryption and hashing (attributes and differences)
 
 ### Languages
 - French: Native
-- English: B2-C1 (with 935/990 at TOEIC)
+- English: C1 (with 935/990 at TOEIC)
 
-### Citizen project
-- Awareness campaign on campus in partnership with the EFS: communication, logistics
+### Citizen projects
+- Organization of street outreach in Toulouse with the distribution of essential goods
+- Awareness campaign on campus in partnership with the EFS
 
 ### Interests
-- Computer science (cybersecurity, machine learning, programming): autonomy, technical skills
-- Reading (novels, metaphysics): questioning, reflection, learning
+- Computer science (cybersecurity, programming)
+- Reading (novels, metaphysics)
